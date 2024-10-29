@@ -50,3 +50,5 @@ processed_data/**
 
 /processed_data/
 /processed_data/**
+
+/venv/
